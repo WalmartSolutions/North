@@ -1,4 +1,4 @@
-<h1 align="center">North v3</h1>
+<h1 align="center">North</h1>
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
@@ -13,11 +13,9 @@ Polish client (Prob skidded too). Their amazing auth is visible af. Devs are sem
 
 # Credits
 
-Qreaj - Developer.
-
-3000IQPlay & HCU - Cracking.
-
-??? - Jar.
+Qreaj - Developer. <br>
+Walmart & HCU - Cracking. <br>
+? - Jar.
 
 # GUI
 ![image]()
