@@ -1,4 +1,4 @@
-<h1 align="center">North</h1>
+<h1 align="center">North v3-pre</h1>
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
@@ -15,7 +15,7 @@ Polish client (Prob skidded too). Their amazing auth is visible af. Devs are sem
 
 Qreaj - Developer. <br>
 Walmart & HCU - Cracking. <br>
-? - Jar.
+??? - Jar.
 
 # GUI
 ![image]()
