@@ -20,7 +20,7 @@ Click login idiot
 # Credits
 
 Qreaj - Developer. <br>
-Walmart & HCU - Cracking. <br>
+3000IQPlay & HCU - Cracking. <br>
 ??? - Jar.
 
 # GUI
