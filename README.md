@@ -7,7 +7,7 @@ Polish client (Prob skidded too). Their amazing auth is visible af. Devs are sem
 
 # How To Use
 1. "Download ZIP" using the "Code" button
-2. Move the North files into ".minecraft/versions/North"
+2. Move the "North" file into ".minecraft/versions"
 3. Create a new Instance in your Minecraft Launcher
 4. Start the game (Enjoy)
 
