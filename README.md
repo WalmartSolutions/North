@@ -7,6 +7,10 @@ Polish client (Prob skidded too). Their amazing auth is visible af. Devs are sem
 
 !!!Special thanks to HCU for the help!!!
 
+**Make sure to use -noverify in your JVM Arguments**
+
+![image](https://media.discordapp.net/attachments/1139492863537860689/1145792961624416376/259542387-55db9418-0bd4-42bd-85be-dd77d5de4852.png?width=645&height=118)
+
 # Omg it shows AuthGUI!1!
 
 Click login idiot
