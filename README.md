@@ -23,7 +23,7 @@ Click login idiot
 
 # Credits
 
-Qreaj - Developer. <br>
+Qreaj, Groszus, Tecnessino - Making the client. <br>
 3000IQPlay & HCU - Cracking. <br>
 ??? - Jar.
 
