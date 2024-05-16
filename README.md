@@ -5,8 +5,6 @@
 # Why?
 Polish client (Prob skidded too). Their amazing auth is visible af. Devs are semi-autstic. North devs [fanning](https://media.discordapp.net/attachments/1139514935743885353/1161318281882370193/image.png?ex=6537dcee&is=652567ee&hm=13febfcefc5a6de3d363c09dfe99f126c1fbc993c4fb992c0c55a7ac64eaea8a&=&width=564&height=570) like nobody else before.
 
-!!!Special thanks to HCU for the help!!!
-
 **Make sure to use -noverify in your JVM Arguments**
 
 ![image](https://media.discordapp.net/attachments/1139492863537860689/1145792961624416376/259542387-55db9418-0bd4-42bd-85be-dd77d5de4852.png?width=645&height=118)
@@ -24,7 +22,7 @@ Click login idiot
 # Credits
 
 Qreaj, Groszus, Tecnessino - Making the client. <br>
-3000IQPlay & HCU - Cracking. <br>
+3000IQPlay - Cracking. <br>
 ??? - Jar.
 
 # GUI
